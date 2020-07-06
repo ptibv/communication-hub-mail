@@ -1,5 +1,5 @@
 {
-	"name": "nette/mail",
+	"name": "ptibv/communication-hub-mail",
 	"description": "📧 Nette Mail: handy email creation and transfer library for PHP with both text and MIME-compliant support.",
 	"keywords": ["nette", "mail", "mailer", "smtp", "mime"],
 	"homepage": "https://nette.org",
